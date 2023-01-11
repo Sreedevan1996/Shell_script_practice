@@ -41,3 +41,5 @@ vim hostnames.sh
 ./hostnames.sh 
 vim hostnames.sh 
 sudo su
+sudo su
+sudo su
