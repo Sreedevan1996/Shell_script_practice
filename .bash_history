@@ -43,3 +43,5 @@ vim hostnames.sh
 sudo su
 sudo su
 sudo su
+sudo yum update
+sudo su
