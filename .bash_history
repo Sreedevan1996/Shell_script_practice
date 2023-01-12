@@ -45,3 +45,16 @@ sudo su
 sudo su
 sudo yum update
 sudo su
+ls
+git push origin main
+git remote add origin git@github.com:Sreedevan1996
+/
+git remote add origin git@github.com:Sreedevan1996/Demo.git
+git remote add origin git@github.com:sreedevan1996/Demo.git
+git remote show
+git config --global
+git remote show
+git config --global --add safe.directory /home/ec2-user
+git remote show
+git remote add origin git@github.com:Sreedevan1996/Demo.git
+git push -u origin master
