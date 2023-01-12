@@ -58,3 +58,6 @@ git config --global --add safe.directory /home/ec2-user
 git remote show
 git remote add origin git@github.com:Sreedevan1996/Demo.git
 git push -u origin master
+sudo su
+sudo su
+sudo su
