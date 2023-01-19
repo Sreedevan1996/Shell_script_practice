@@ -61,3 +61,27 @@ git push -u origin master
 sudo su
 sudo su
 sudo su
+sudo yum update 
+
+sudo su
+cat /etc/passwd
+ls
+cat /etc/passwd
+sudo su
+sudo su
+ls
+cat hostname.
+cat hostname.sh 
+cat new.sh 
+sudo su
+cat /etc/passwd
+sudo su
+cat /etc/passwd
+sudo su
+cat /etc/passwd
+cat new.sh
+ls
+sudo su
+ls -ll
+./new.sh tom
+cat new.sh 

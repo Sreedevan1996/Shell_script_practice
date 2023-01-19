@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :q!
-|2,0,1673343375,,"q!"
+|2,0,1674120229,,"q!"
 :wq!
 |2,0,1673342947,,"wq!"
 
@@ -27,18 +27,66 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/hostnames.sh
-|4,48,1,0,1673343375,"~/hostnames.sh"
-'1  1  0  ~/hostnames.sh
-|4,49,1,0,1673342947,"~/hostnames.sh"
-'2  1  0  /etc/passwd
-|4,50,1,0,1672986152,"/etc/passwd"
-'3  1  396  ~/.ssh/authorized_keys
-|4,51,1,396,1670486514,"~/.ssh/authorized_keys"
+'0  1  0  ~/demo.sh
+|4,48,1,0,1674120229,"~/demo.sh"
+'1  1  0  ~/new.sh
+|4,49,1,0,1674120220,"~/new.sh"
+'2  1  0  ~/ssh.sh
+|4,50,1,0,1674120203,"~/ssh.sh"
+'3  1  0  ~/hostnames.sh
+|4,51,1,0,1673343375,"~/hostnames.sh"
+'4  1  0  ~/hostnames.sh
+|4,52,1,0,1673342947,"~/hostnames.sh"
+'5  1  0  /etc/passwd
+|4,53,1,0,1672986152,"/etc/passwd"
+'6  1  396  ~/.ssh/authorized_keys
+|4,54,1,396,1670486514,"~/.ssh/authorized_keys"
 
 # Jumplist (newest first):
+-'  1  0  ~/demo.sh
+|4,39,1,0,1674120229,"~/demo.sh"
+-'  1  0  ~/new.sh
+|4,39,1,0,1674120220,"~/new.sh"
+-'  1  0  ~/new.sh
+|4,39,1,0,1674120220,"~/new.sh"
+-'  1  0  ~/ssh.sh
+|4,39,1,0,1674120203,"~/ssh.sh"
+-'  1  0  ~/ssh.sh
+|4,39,1,0,1674120203,"~/ssh.sh"
+-'  1  0  ~/ssh.sh
+|4,39,1,0,1674120203,"~/ssh.sh"
+-'  1  0  ~/ssh.sh
+|4,39,1,0,1674120203,"~/ssh.sh"
 -'  1  0  ~/hostnames.sh
 |4,39,1,0,1673343375,"~/hostnames.sh"
+-'  1  0  ~/hostnames.sh
+|4,39,1,0,1673343375,"~/hostnames.sh"
+-'  1  0  ~/hostnames.sh
+|4,39,1,0,1673343375,"~/hostnames.sh"
+-'  1  0  ~/hostnames.sh
+|4,39,1,0,1673343375,"~/hostnames.sh"
+-'  1  0  ~/hostnames.sh
+|4,39,1,0,1673343375,"~/hostnames.sh"
+-'  1  0  ~/hostnames.sh
+|4,39,1,0,1673343375,"~/hostnames.sh"
+-'  1  0  ~/hostnames.sh
+|4,39,1,0,1673343375,"~/hostnames.sh"
+-'  1  0  ~/hostnames.sh
+|4,39,1,0,1673343375,"~/hostnames.sh"
+-'  1  0  ~/hostnames.sh
+|4,39,1,0,1673342947,"~/hostnames.sh"
+-'  1  0  ~/hostnames.sh
+|4,39,1,0,1673342947,"~/hostnames.sh"
+-'  1  0  ~/hostnames.sh
+|4,39,1,0,1673342947,"~/hostnames.sh"
+-'  1  0  ~/hostnames.sh
+|4,39,1,0,1673342947,"~/hostnames.sh"
+-'  1  0  ~/hostnames.sh
+|4,39,1,0,1673342947,"~/hostnames.sh"
+-'  1  0  ~/hostnames.sh
+|4,39,1,0,1673342947,"~/hostnames.sh"
+-'  1  0  ~/hostnames.sh
+|4,39,1,0,1673342947,"~/hostnames.sh"
 -'  1  0  ~/hostnames.sh
 |4,39,1,0,1673342947,"~/hostnames.sh"
 -'  1  0  /etc/passwd
@@ -49,6 +97,136 @@
 |4,39,1,0,1672986152,"/etc/passwd"
 -'  1  0  /etc/passwd
 |4,39,1,0,1672986152,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1672986152,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1672986152,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1672986152,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1672986152,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1672986152,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1672986152,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1672986152,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1672986152,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1672986152,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1672986152,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1672986152,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1672986152,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1672986152,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1672986152,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1672986152,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1672986152,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1672986152,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1672986152,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1672986152,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1672986152,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1672986152,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1672986152,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1672986152,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1672986152,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1672986152,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1672986152,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1672986152,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1672986152,"/etc/passwd"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
+-'  1  396  ~/.ssh/authorized_keys
+|4,39,1,396,1670486514,"~/.ssh/authorized_keys"
 -'  1  396  ~/.ssh/authorized_keys
 |4,39,1,396,1670486514,"~/.ssh/authorized_keys"
 -'  1  396  ~/.ssh/authorized_keys
@@ -67,6 +245,10 @@
 |4,39,1,396,1670486514,"~/.ssh/authorized_keys"
 
 # History of marks within files (newest to oldest):
+
+> ~/new.sh
+	*	1674120219	0
+	"	1	0
 
 > ~/hostnames.sh
 	*	1673343374	0
